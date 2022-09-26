@@ -18,6 +18,7 @@ _Me chamo Felipe Ferreira Guimarães, tenho 25 anos e moro em São João del Rei
 # Atualmente o que estou fazendo?
 
 > Atualmente estou fazendo um curso na **CORDA.ME**. Faço parte ta **TURMA-02** ,onde o  curso tem como objetivo ir  do basico ao _Mercado de Trabalho_. Sendo possivel interagir na comunidade no **DISCORD** e tirando suas dúvidas junto aos desáfios propostos em cada modulos estudados 
-
-<h2> Meu foco e com esse curso e muita dedicação conseguir **CRIAR , REPLICAR E DESENVOLVER TUDO E QUALQUER COISA** </h2>
+ 
+ 
+ **CRIAR,REPLICAR E DESENVOLVER** 
 
