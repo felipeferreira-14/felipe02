@@ -8,7 +8,7 @@
 _Me chamo Felipe Ferreira Guimarães, tenho 25 anos e moro em São João del Rei / MG, que é uma cidade histórica com igrejas e com sua famosa Maria Fumaça.  Sou um rapaz dedicado no que me proponho a fazer._
 
 
-# Meu objetivo 
+# Meu objetivo ?
 
 > Estou em busca de me qualificar para o mercado de trabalho no ramo de programador e desejo muito que eu me torne um desenvolvedor capacitado na aréa em questão
 
