@@ -5,8 +5,7 @@
 
 <h1> :dash: Quem sou eu ? </h1>
 
-_Me chamo Felipe Ferreira Guimarães, tenho 25 anos e moro em São João del Rei / MG. Sou um rapaz dedicado no que busco
-SJDR e uma cidade histórica com igrejas e a sua famosa Maria Fumaça **Trem bem antigo que faz viagens até outra cidade proxima daqui_ **TIRANDENTES**
+_Me chamo Felipe Ferreira Guimarães, tenho 25 anos e moro em São João del Rei / MG, que é uma cidade histórica com igrejas e com sua famosa Maria Fumaça.  Sou um rapaz dedicado no que me proponho a fazer._
 
 
 # Meu objetivo 
@@ -17,4 +16,8 @@ SJDR e uma cidade histórica com igrejas e a sua famosa Maria Fumaça **Trem bem
 
 
 # Atualmente o que estou fazendo?
+
+> Atualmente estou fazendo um curso na **CORDA.ME**. Faço parte ta **TURMA-02** ,onde o  curso tem como objetivo ir  do basico ao _Mercado de Trabalho_. Sendo possivel interagir na comunidade no **DISCORD** e tirando suas dúvidas junto aos desáfios propostos em cada modulos estudados 
+
+<h2> Meu foco e com esse curso e muita dedicação conseguir **CRIAR , REPLICAR E DESENVOLVER TUDO E QUALQUER COISA** </h2>
 
