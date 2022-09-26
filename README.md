@@ -1,6 +1,12 @@
- # Olá me chamo Felipe!
+ # Olá me chamo Felipe! #
+ 
+  **QUEM SOU EU**
+  
+  Atualmente tenho 25 anos , não tenho emprego e estou em busca de me qualificar para o mercado de trabalho da programação 
+    Venho de escola pública , e não e pelo fato de ser pública que eram ruim pelo contrário eram e ainda são grandes escolas de minha cidade seguidas  das particulares 
+    A ultima escola em que passei chama ECOOL atualmente se tornou modelo civico militar está se tornando mais conceitudade entre os jovens pois seu ensino de qualidade tem que tornando cada vez melhor
+    Caso queiram conhecer Clique no Link
      
-     **QUEM SOU EU**
     Atualmente tenho 25 anos , não tenho emprego e estou em busca de me qualificar para o mercado de trabalho da programação 
     Venho de escola pública , e não e pelo fato de ser pública que eram ruim pelo contrário eram e ainda são grandes escolas de minha cidade seguidas  das particulares 
     A ultima escola em que passei chama ECOOL atualmente se tornou modelo civico militar está se tornando mais conceitudade entre os jovens pois seu ensino de qualidade tem que tornando cada vez melhor
