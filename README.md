@@ -1,5 +1,5 @@
 # :zzz: Olá Seja-Bem-vindo ao meu perfil no GITHub :zzz:
-<br/>
+##
 
 
 
@@ -30,7 +30,7 @@ _Me chamo Felipe Ferreira Guimarães, tenho 25 anos e moro em São João del Rei
  <img align="right" alt="Felipe-pic" height="150" src="https://avatars.githubusercontent.com/u/83465209?v=4width=676&height=676">
 </div>
   
-  ##
+  # Redes Sociais:
  
 <div> 
   <a href="https://www.youtube.com/channel/UCDO4A1irSoGskphHdNUoLmw" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
