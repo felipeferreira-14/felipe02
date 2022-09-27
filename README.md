@@ -1,4 +1,4 @@
-# :zzz: Olá Seja-Bem-vindo ao meu perfil no GITHub :zzz:
+# 👋 Olá Seja-Bem-vindo ao meu perfil no GITHub 👋
 ##
 
 
