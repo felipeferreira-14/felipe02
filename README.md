@@ -3,7 +3,7 @@
 
 
 
-<h1> 🚀 Quem sou eu ?</h1>
+<h1> ⚡ Quem sou eu ?</h1>
 
 _Me chamo Felipe Ferreira Guimarães, tenho 25 anos e moro em São João del Rei / MG, que é uma cidade histórica com igrejas e com sua famosa Maria Fumaça.  Sou um rapaz dedicado no que me proponho a fazer._
 
@@ -14,12 +14,17 @@ _Me chamo Felipe Ferreira Guimarães, tenho 25 anos e moro em São João del Rei
 
 
 
-# ✨ Atualmente o que estou fazendo?
+# 🔭 Atualmente estou trabalhando em:
 
 > Atualmente estou fazendo um curso na **CORDA.ME**. Faço parte ta **TURMA-02** ,onde o  curso tem como objetivo ir  do basico ao _Mercado de Trabalho_. Sendo possivel interagir na comunidade no **DISCORD** e tirando suas dúvidas junto aos desáfios propostos em cada modulos estudados 
+
+
+# 🤔 Estou procurando ajuda com:
+
+> Dicas e pessoas que estão no comeco dessa areas dispostas a trocar informações e ideias 
  
  
- # 🚀 Em desenvolvimento de conhecimento 🚀
+ # 🌱 Atualmente estou aprendendo ...
 <div style="display: inline_block"><br>
   <img align="center" alt="Felipe-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Felipe-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
@@ -28,8 +33,10 @@ _Me chamo Felipe Ferreira Guimarães, tenho 25 anos e moro em São João del Rei
   <img align="center" alt="Felipe-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
  <img align="right" alt="Felipe-pic" height="150" src="https://avatars.githubusercontent.com/u/83465209?v=4width=676&height=676">
 </div>
+
+  <br>
   
-  # Redes Sociais:
+ # 📫 Como entrar em contato comigo: ...
  
 <div> 
   <a href="https://www.youtube.com/channel/UCDO4A1irSoGskphHdNUoLmw" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
