@@ -1,8 +1,6 @@
 # 👋 Olá Seja-Bem-vindo ao meu perfil no GITHub 👋
 ##
-
-
-
+<img align="center" src="https://c.tenor.com/F2Yu8YbVV_MAAAAC/hello-cat.gif">
 <h1> ⚡ Quem sou eu ?</h1>
 
 _Me chamo Felipe Ferreira Guimarães, tenho 25 anos e moro em São João del Rei / MG, que é uma cidade histórica com igrejas e com sua famosa Maria Fumaça.  Sou um rapaz dedicado no que me proponho a fazer._
