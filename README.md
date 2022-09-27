@@ -1,4 +1,4 @@
-#  <h1 align="center">👋 Hi,Seja-Bem-vindo ao meu perfil no GITHub 
+#  <h1 align="center">👋 Hi, Bem-vindo ao meu perfil no GITHub 
 ##
 <img align="center" src="https://c.tenor.com/F2Yu8YbVV_MAAAAC/hello-cat.gif">
 <h1> ⚡ Quem sou eu ?</h1>
