@@ -35,4 +35,10 @@ _Me chamo Felipe Ferreira Guimarães, tenho 25 anos e moro em São João del Rei
   <a href="https://www.youtube.com/channel/UCDO4A1irSoGskphHdNUoLmw" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href = "mailto:felipefe200@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/felipe-ferreira-691071249" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+ 
+ # Na hora de lazer gosto de jogar:
+ 
+ <a href="https://steamcommunity.com/profiles/76561198130243997/"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white"></a>
+ 
+
 
