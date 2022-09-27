@@ -3,23 +3,23 @@
 
 
 
-<h1>Quem sou eu ?</h1>
+<h1> 🚀 Quem sou eu ?</h1>
 
 _Me chamo Felipe Ferreira Guimarães, tenho 25 anos e moro em São João del Rei / MG, que é uma cidade histórica com igrejas e com sua famosa Maria Fumaça.  Sou um rapaz dedicado no que me proponho a fazer._
 
 
-# Meu objetivo ?
+# 🔮 Meu objetivo ?
 
  _Estou em busca de me qualificar para o mercado de trabalho no ramo de programador e desejo muito que eu me torne um desenvolvedor capacitado na aréa em questão_
 
 
 
-# Atualmente o que estou fazendo?
+# ✨ Atualmente o que estou fazendo?
 
 > Atualmente estou fazendo um curso na **CORDA.ME**. Faço parte ta **TURMA-02** ,onde o  curso tem como objetivo ir  do basico ao _Mercado de Trabalho_. Sendo possivel interagir na comunidade no **DISCORD** e tirando suas dúvidas junto aos desáfios propostos em cada modulos estudados 
  
  
- # Em desenvolvimento de conhecimento
+ # 🚀 Em desenvolvimento de conhecimento 🚀
 <div style="display: inline_block"><br>
   <img align="center" alt="Felipe-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Felipe-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
