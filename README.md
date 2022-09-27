@@ -14,7 +14,7 @@ _Me chamo Felipe Ferreira Guimarães, tenho 25 anos e moro em São João del Rei
 
 
 
-# 🔭 Atualmente estou trabalhando em:
+# 🔭 Atualmente estou trabalhando em :
 
 > Atualmente estou fazendo um curso na **CORDA.ME**. Faço parte ta **TURMA-02** ,onde o  curso tem como objetivo ir  do basico ao _Mercado de Trabalho_. Sendo possivel interagir na comunidade no **DISCORD** e tirando suas dúvidas junto aos desáfios propostos em cada modulos estudados 
 
@@ -24,7 +24,7 @@ _Me chamo Felipe Ferreira Guimarães, tenho 25 anos e moro em São João del Rei
 > Dicas e pessoas que estão no comeco dessa areas dispostas a trocar informações e ideias 
  
  
- # 🌱 Atualmente estou aprendendo ...
+ # 🌱 Atualmente estou aprendendo :
 <div style="display: inline_block"><br>
   <img align="center" alt="Felipe-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Felipe-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
@@ -36,14 +36,14 @@ _Me chamo Felipe Ferreira Guimarães, tenho 25 anos e moro em São João del Rei
 
   <br>
   
- # 📫 Como entrar em contato comigo: ...
+ # 📫 Como entrar em contato comigo :
  
 <div> 
   <a href="https://www.youtube.com/channel/UCDO4A1irSoGskphHdNUoLmw" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href = "mailto:felipefe200@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/felipe-ferreira-691071249" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
  
- #  :zzz: Na hora de lazer gosto de jogar:
+ #  :zzz: Na hora de lazer gosto de jogar :
  
  <a href="https://steamcommunity.com/profiles/76561198130243997/"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white"></a>
  
